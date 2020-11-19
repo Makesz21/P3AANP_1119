@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="orarendP3AANP.xsl" type="text/xsl"?>
+
+<orarend>
+    <ora id="1" tipus="eloadas">
+        <targy>Algoritmusok és vizsgálatuk</targy>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>8</tol>
+            <ig>10</ig>
+        </idopont>
+        <helyszin>A/1 12</helyszin>
+        <oktato>Házy Attila</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="2" tipus="gyakorlat">
+        <targy>Algoritmusok és vizsgálatuk</targy>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>10</tol>
+            <ig>12</ig>
+        </idopont>
+        <helyszin>A/1 12</helyszin>
+        <oktato>Házy Attila</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="3" tipus="eloadas">
+        <targy>Mesterséges intelligencia alapok</targy>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>12</tol>
+            <ig>15</ig>
+        </idopont>
+        <helyszin>A/1 305</helyszin>
+        <oktato>Dudás László</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="4" tipus="eloadas">
+        <targy>Web technológiák 1</targy>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>15</tol>
+            <ig>17</ig>
+        </idopont>
+        <helyszin>Info 103</helyszin>
+        <oktato>Agárdi Anita</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="5" tipus="gyakorlat">
+        <targy>Web technológiák 1</targy>
+        <idopont>
+            <nap>hétfő</nap>
+            <tol>17</tol>
+            <ig>19</ig>
+        </idopont>
+        <helyszin>Info 15</helyszin>
+        <oktato>Sátán Ádám</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="6" tipus="eloadas">
+        <targy>Adatkezelés XML-ben</targy>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>12</tol>
+            <ig>14</ig>
+        </idopont>
+        <helyszin>37. előadó</helyszin>
+        <oktato>Bednarik László</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="7" tipus="gyakorlat">
+        <targy>Angol</targy>
+        <idopont>
+            <nap>kedd</nap>
+            <tol>16</tol>
+            <ig>18</ig>
+        </idopont>
+        <helyszin>A/1 313</helyszin>
+        <oktato>Kovács Boglárka</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="8" tipus="eloadas">
+        <targy>Szoftvertechnológiák</targy>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>8</tol>
+            <ig>10</ig>
+        </idopont>
+        <helyszin>A/1 218</helyszin>
+        <oktato>Mileff Péter</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="9" tipus="gyakorlat">
+        <targy>Mesterséges intelligencia alapok</targy>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>11</tol>
+            <ig>12</ig>
+        </idopont>
+        <helyszin>Info 15</helyszin>
+        <oktato>Dudás László</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="10" tipus="eloadas">
+        <targy>Vállalati információs rendszerek fejlesztése</targy>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>16</tol>
+            <ig>18</ig>
+        </idopont>
+        <helyszin>Info 202</helyszin>
+        <oktato>Sasvári Péter</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="11" tipus="gyakorlat">
+        <targy>Vállalati információs rendszerek fejlesztése</targy>
+        <idopont>
+            <nap>szerda</nap>
+            <tol>18</tol>
+            <ig>20</ig>
+        </idopont>
+        <helyszin>Info 202</helyszin>
+        <oktato>Sasvári Péter</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="12" tipus="eloadas">
+        <targy>Valószínűségszámítás</targy>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>8</tol>
+            <ig>10</ig>
+        </idopont>
+        <helyszin>A/1 218</helyszin>
+        <oktato>Dr.Fegyverneki Sándor</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="13" tipus="gyakorlat">
+        <targy>Adatkezelés XML környezetben</targy>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>12</tol>
+            <ig>14</ig>
+        </idopont>
+        <helyszin>Info 103</helyszin>
+        <oktato>Bednarik László</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+    <ora id="14" tipus="gyakorlat">
+        <targy>Valószínűségszámítás</targy>
+        <idopont>
+            <nap>csütörtök</nap>
+            <tol>14</tol>
+            <ig>16</ig>
+        </idopont>
+        <helyszin>A/1 220</helyszin>
+        <oktato>Glavosits Tamás</oktato>
+        <szak>programtervező informatikus</szak>
+    </ora>
+</orarend>
